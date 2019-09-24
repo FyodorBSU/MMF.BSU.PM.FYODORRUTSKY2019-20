@@ -3,7 +3,7 @@
 ## 1 семестр
 
 
-### 11.09.2019 
+### 24.09.2019 
 | Task | Task Status | Additional/Comments |
 | -------- | -------- | --------|  
 | 1 | ![Scheduled](https://github.com/AnzhelikaKravchuk/.NET-Training.-Spring-2019/blob/master/Pictures/icons-ok.png)|[Link to cpp-file](/)
