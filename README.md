@@ -12,7 +12,19 @@
 ### 24.09.2019 
 | Task | Task Status | Additional/Comments |
 | -------- | -------- | --------|  
-| 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[Link to cpp-file](https://github.com/FyodorBSU/STAFF/blob/master/compairing%20of%20triangles.cpp)
-| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[Link to cpp-file](https://github.com/FyodorBSU/STAFF/blob/master/comparing%20of%20numders.cpp)
-| 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[Link to cpp-file](https://github.com/FyodorBSU/STAFF/blob/master/graphik%201.cpp)
+| 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/STAFF/blob/master/compairing%20of%20triangles.cpp)
+| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/STAFF/blob/master/comparing%20of%20numders.cpp)
+| 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/STAFF/blob/master/graphik%201.cpp)
+---
+
+
+### 24.09.2019 
+| Task | Task Status | Additional/Comments |
+| -------- | -------- | --------|  
+| 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE]()
+| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE]()
+| 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE]()
+| 4 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE]()
+| 5 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE]()
+---
 ---
