@@ -12,9 +12,9 @@
 ### 24.09.2019 
 | Task | Task Status | Additional/Comments |
 | -------- | -------- | --------|  
-| 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/STAFF/blob/master/compairing%20of%20triangles.cpp)
-| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/STAFF/blob/master/comparing%20of%20numders.cpp)
-| 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/STAFF/blob/master/graphik%201.cpp)
+| 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/codes/comparing%20of%20numders.cpp)
+| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/codes/compairing%20of%20triangles.cpp)
+| 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/codes/graphik%201.cpp)
 ---
 
 
