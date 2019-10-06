@@ -4,76 +4,68 @@ using namespace std;
 
 int main()
 {
-
 	char ok = 'p';
-
-	int n, i;
 	while (ok)
 	{
-
+		int n, month;
 
 		while (true)
 		{
-			cout << "enter mark for translation:" << endl;
+			cout << "enter numbaer of month to know the season:" << endl;
 			cin >> n;
 
-			if (n >= 1 && n <= 10)
+			if (n >= 1 && n <= 12)
 			{
-				i = n;
+				month = n;
 				break;
 			}
-			cout << "mark must be in a range of 1 to 10" << endl;
+			cout << "no such month!!!" << endl;
 			system("pause");
 			system("cls");
-		}
+		} 
 
+		
 
-		switch (i)
+		switch (month)
 		{
+
 		case 1:
 		case 2:
+		case 12:
 
-			cout << "was absent" << endl;
-
+			cout << "winter***" << endl;
 			break;
 
 		case 3:
 		case 4:
-
-			cout << "not satisfactorily" << endl;
-
-			break;
-
 		case 5:
-		case 6:
 
-			cout << "satisfactorily" << endl;
-
+			cout << "spring+++" << endl;
 			break;
 
+		case 6:
 		case 7:
 		case 8:
 
-			cout << "good" << endl;
-
+			cout << "summer!!!" << endl;
 			break;
 
 		case 9:
 		case 10:
+		case 11:
 
-			cout << "exellent" << endl;
-
+			cout << "autumn///" << endl;
 			break;
 
 		default:
 
-			cout << "not exist!!!" << endl;
-
+			cout << "no such month!!!" << endl;
+			break;
 		}
-
 		cout << "press 'p' to restart " << endl;
 		cin >> ok;
 		system("cls");
+
 
 	}
 	system("pause");
