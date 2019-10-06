@@ -73,9 +73,7 @@ int main()
 			cout << "not exist!!!" << endl;
 
 		}
-		//system("pause");
-		//system("cls");
-		//return 0;
+		
 
 		cout << "press 'p' to restart " << endl;
 		cin >> ok;
