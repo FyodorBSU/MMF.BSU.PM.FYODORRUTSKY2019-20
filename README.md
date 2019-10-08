@@ -31,7 +31,7 @@
 | Task | Task Status | Additional/Comments |
 | -------- | -------- | --------|  
 | 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/02.10.2019/marks.cpp)
-| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/timer_hourglass_time_clock_icon_124605.png)|[CLICK HERE FOR CODE]()
+| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/02.10.2019/monthes.cpp)
 | 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/timer_hourglass_time_clock_icon_124605.png)|[CLICK HERE FOR CODE]()
 | 4 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/timer_hourglass_time_clock_icon_124605.png)|[CLICK HERE FOR CODE]()
 
