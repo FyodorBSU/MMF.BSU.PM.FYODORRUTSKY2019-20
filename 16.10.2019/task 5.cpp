@@ -3,18 +3,18 @@
 using namespace std;
 
 int enterNumber();
-void chekingNumber(int, int, int);
+int chekingNumber(int, int, int);
 int digitToRemove();
 int numberOfDigits(int);
-
-
+void menu();
+void menuText();
+void testing();
+void workOfTesting(int, int, int, int, int);
+void workWithConsole();
+void dysplayResult(int);
 int main()
 {
-	int number = enterNumber();
-	int r = digitToRemove();
-	int i = numberOfDigits(number);
-
-	chekingNumber(number, r, i);
+	menu();
 
 	return 0;
 }
@@ -37,8 +37,49 @@ int digitToRemove()
 
 	return r;
 }
+void menu()
+{
+	while (true)
+	{
+		char operation;
+		menuText();
+		cin >> operation;
+		switch (operation)
+		{
+		case 'c':
+			workWithConsole();
+			break;
+		case 't':
+			testing();
+			break;
+		case 'r':
+			return;
+		default:
+			cout << "Invalid operation. Try again." << endl;
+		}
+		system("pause");
+		system("cls");
 
+	}
+}
+void menuText()
+{
+	cout << "press 'c' to work with console" << endl;
+	cout << "press 't' to start tests" << endl;
+	cout << "press 'r' to exit" << endl;
+}
+void workWithConsole()
+{
+	int number = enterNumber();
+	int r = digitToRemove();
+	int i = numberOfDigits(number);
 
+	chekingNumber(number, r, i);
+}
+void dysplayResult(int changedNumber)
+{
+	cout << "changed number is: " << changedNumber << endl;
+}
 int enterNumber()
 {
 	int number;
@@ -59,7 +100,7 @@ int numberOfDigits(int number)
 	}
 	return i;
 }
-void chekingNumber(int number, int r, int i)
+int chekingNumber(int number, int r, int i)
 {
 	int changedNumber = 0;
 
@@ -81,7 +122,29 @@ void chekingNumber(int number, int r, int i)
 
 	}
 	changedNumber = changedNumber / 10;
-	cout << "chaned number is:" << changedNumber << endl;
+	return changedNumber;
 
 }
+void testing()
+{
+	int testNumber = 1;
 
+	workOfTesting(testNumber++, 2333, 4, 3, 2);
+	workOfTesting(testNumber++, 54545, 5, 4, 555);
+	workOfTesting(testNumber++, 47, 2, 4, 7);
+	workOfTesting(testNumber++, 0, 1, 8,0);
+	workOfTesting(testNumber++, 111111, 6, 8, 111111);
+}
+void workOfTesting(int testCaseNumber, int number, int i, int r, int changedNumber)
+{
+	int act = chekingNumber(number, r, i);
+	if (act == changedNumber)
+	{
+		cout << "Case #" << testCaseNumber << " well changed /)" << endl;
+	}
+	else
+	{
+		cout << "Case #" << testCaseNumber << " bad changed. /(" << endl;
+
+	}
+}
