@@ -56,11 +56,12 @@
 | 5 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/16.10.2019/task%205.cpp)
 
 
-### 23.10.2019 
+
+### 30.10.2019 
 | Task | Task Status | Additional/Comments |
 | -------- | -------- | --------|  
-| 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/27.10.2019/task%201.cpp)
-| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/27.10.2019/task%202.cpp)
-| 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/27.10.2019/task%203.cpp)
+| 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/30.10.2019/task%201.cpp)
+| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/30.10.2019/task%202.cpp)
+| 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/30.10.2019/task%203.cpp)
 
 
