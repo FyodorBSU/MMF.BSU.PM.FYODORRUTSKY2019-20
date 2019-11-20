@@ -73,4 +73,15 @@
 | 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/06.11.2019/task%203.cpp)
 
 
+### 13.11.2019 
+| Task | Task Status | Additional/Comments |
+| -------- | -------- | --------|  
+| 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/06.11.2019/task1.cpp)
+| 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/13.11.2019/sorting%20choosing.cpp)
+| 3 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/timer_hourglass_time_clock_icon_124605.png)|[CLICK HERE FOR CODE]()
+
+
+
+
+
 
