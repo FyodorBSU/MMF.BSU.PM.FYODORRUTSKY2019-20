@@ -97,6 +97,10 @@
 | 2 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/1course1semester/27.11.2019/task%202.cpp)
 
 
+### 04.12.2019 
+| Task | Task Status | Additional/Comments |
+| -------- | -------- | --------|  
+| 1 | ![Scheduled](https://github.com/FyodorBSU/STAFF/blob/master/badge_medal_reward_prize_winner_icon_124685.png)|[CLICK HERE FOR CODE](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/1course1semester/04.12.2019/sortingTypesForArrays.cpp)
 
 
 
