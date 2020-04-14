@@ -96,20 +96,20 @@ void contentsArray(double* source, int size)
 {
 	const auto N = 40;
 	char path[N] = R"(C:\Users\USER\Desktop\jojo2.txt)";
-	ifstream fin(path);
-	if (!fin.is_open())
+	ifstream ain(path);
+	if (!ain.is_open())
 	{
 		throw std::invalid_argument("exeption");
 		exit(1);
 	}
 	int i = 0, term;
-	while (!fin.eof() && i < size)
+	while (!ain.eof() && i < size)
 	{
-		fin >> source[i];
+		ain >> source[i];
 		i++;
 	}
 
-	fin.close();
+	ain.close();
 }
 void getFromArrayToFile(int size, double* source)
 {
