@@ -25,7 +25,7 @@ int main()
 }
 int sizeOfMatrix(char* path)
 {
-	int size = 0, temp=0;
+	int size = 0, temp = 0;
 
 	ifstream in(path);
 
@@ -103,29 +103,47 @@ int** newMatrix(int** matrix, int size)
 }
 int findMax(int** matrix, int i, int j, int size)
 {
-	int max = 0;
-	if (i == 0)
+	int max = matrix[i][j], jmax = j;
+
+	for (int i1 = i; i1 >= 0; --i1)
 	{
-		int s = 1;
-		max = matrix[i][j];
-		for(int k=1;k<size;k++)
+		for (int j1 = j; j1 >= 0 && j1 <= jmax; j1++)
 		{
-			for (int m = 0; m < s; m++)
+			if (max < matrix[i1][j1])
 			{
-				if (max < matrix[k][m])
-				{
-					max = matrix[k][m];
-				}
+				max = matrix[i1][j1];
 			}
-			s++;
 		}
-		return max;
+		if (j > 0)
+		{
+			j--;
+		}
+		if (jmax < size)
+		{
+			jmax++;
+		}
 	}
-	else if(i==0)
+	int jmin = j;
+	for (int i1 = i; i1 <= size; i1++)
 	{
-		return 0;
+		for (int j1 = j; j1 <= size && j1 >= jmin; j1++)
+		{
+			if (max < matrix[i1][j1])
+			{
+				max = matrix[i1][j1];
+			}
+		}
+		if (j < size)
+		{
+			j++;
+		}
+		if (jmin < size)
+		{
+			jmin++;
+		}
 	}
 
+	return max;
 }
 void matrixToFile(int** matrix, int size, char* path)
 {
