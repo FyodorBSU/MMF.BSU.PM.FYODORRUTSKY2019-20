@@ -3,7 +3,7 @@
 
 
 ## Загрузка и подготовка данных для модели
-Программный код, используемый для расчетов и поосторения модели [по ссылке]((https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/test_task_priorbank/source/task1(linear_regression).ipynb)) 
+Программный код, используемый для расчетов и поосторения модели [по ссылке](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/test_task_priorbank/source/task1(linear_regression).ipynb) 
 
 
 ## Построение модели
