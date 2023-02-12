@@ -2,7 +2,7 @@
  
 
 ## Загрузка и подготовка данных для анализа
-Программный код, который используется в отчете [по ссылке](https://github.com/Grag2015/testWG/blob/master/Task%202%20Minsktrans.Rmd) 
+Программный код, который используется в отчете [по ссылке](https://github.com/FyodorBSU/MMF.BSU.PM.FYODORRUTSKY2019-20/blob/master/test_task_priorbank/source/task2(buses).ipynb) 
 
 
 
